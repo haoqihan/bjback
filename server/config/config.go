@@ -23,4 +23,5 @@ type Sqlite struct {
 	Path     string `json:"path"`
 	Config   string `json:"config"`
 	LogMode  bool   `json:"log_mode"`
+
 }
